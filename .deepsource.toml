@@ -5,4 +5,4 @@ name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_root = "github.com/raydeann/test-infra"
+  import_root = "github.com/subham-deepsource/test-infra"
